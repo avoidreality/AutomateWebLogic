@@ -1,5 +1,5 @@
 '''
-  Python/Jython by Kyle Smith 2017 - 3.0 - Logs to file on disk.
+  Python/Jython code by anonymous 2017 - 3.0 - Logs to file on disk.
 
 
     , ; , .-'"""'-.   , ; ,
